@@ -10,7 +10,7 @@ The main goal of this project is to write SQL queries to generate business insig
 
 ![Database Schema](schema.png)
 
-The system database consists of the following main tables. Database Tables Overview
+The film rental database consists of the following main tables. Database Tables Overview
 
 1. **Customer**: Stores information about customers, including their contact details and account status.  
 2. **Store**: Represents stores, their locations, and the managers in charge.  
